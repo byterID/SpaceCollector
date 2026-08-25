@@ -11,7 +11,8 @@
 
 ## Скриншот
 
-> Можно добавить скриншот игры позже.
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/cbbd4cd4-8976-4dcf-84ac-9a305d60ff2d" />
+
 
 ```text
 Игрок собирает кристаллы, астероиды летят с краёв экрана.
